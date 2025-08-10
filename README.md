@@ -7,5 +7,6 @@ A simple drag-and-drop PDF merging tool built with Python.
 - Simple and lightweight
 
 ## Install dependencies:
+  ```bash
 pip install -r requirements.txt
 
